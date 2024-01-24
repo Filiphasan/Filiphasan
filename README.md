@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Hasan Erdal - Software Developer
+### 👋 Hi there, I'm Hasan Erdal - Software Engineer
 
 Welcome to my GitHub profile! Here you'll find a mix of professional and personal projects, reflecting my journey and growth in the field of software development.
 
