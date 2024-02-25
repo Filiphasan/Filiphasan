@@ -25,7 +25,7 @@ Aiming towards becoming a Software Architect, I am dedicated to continual learni
 
 #### 🌐 Social Links
 - LinkedIn: [/in/hasan-erdal](https://linkedin.com/in/hasan-erdal)
-- Medium: [Hasan Erdal](https://medium.com/@filiphasan)
+- Medium: [Hasan Erdal](https://medium.com/@hasan-erdal)
 - Twitter: [Hasan Erdal](https://twitter.com/filiphasann)
 
 #### 🎲 Hobbies
